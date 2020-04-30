@@ -1,3 +1,2 @@
-MongoDb/.env
-MongoDb/node_modules
-urlsExtract/node_modules
+.env
+/node_modules
