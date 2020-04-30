@@ -1,2 +1,3 @@
 MongoDb/.env
-node_modules
+MongoDb/node_modules
+urlsExtract/node_modules
